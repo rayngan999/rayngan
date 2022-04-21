@@ -9,7 +9,7 @@
 <br />
 <br />
 
-Hi, I'm Shangde Han, a passionate software developer.  
+Hi, I'm Ray Ngan, a passionate software developer.  
 - 🎓 I’m currently sutding at [UC Davis](https://www.ucdavis.edu/)
 - 👯 I’m looking to collaborate on doing [leetcode](https://leetcode.com/problemset/algorithms/)
 - 🌱 I’m currently learning computer network and OS
