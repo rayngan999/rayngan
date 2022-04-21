@@ -1,9 +1,6 @@
 ### Hi there, I'm Ray Ngan! 👋
 
 
-<br />
-<br />
-
 Hi, I'm Ray Ngan, a passionate software developer.  
 - 🎓 I’m currently studying at [UC Davis](https://www.ucdavis.edu/)
 - 🌱 I’m currently learning computer network and OS
