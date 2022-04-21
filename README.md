@@ -14,9 +14,5 @@
 <code><img height="20" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/programming-languages.gif"></code>
 <i class="programming lang-javascript"></i>
 
-<a href="https://github.com/ShangdeHan/github-readme-stats">   
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rayngan999&show_icons=true&include_all_commits=true&hide=contribs,prs&theme=tokyonight" alt="Ray's github stats"/>
-</a>
-<a href="https://github.com/ShangdeHan/github-readme-stats">   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayngan999&layout=compact&theme=tokyonight"/>
-</a>
+[<img src="https://github-profile-trophy.vercel.app/?username=rayngan999&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
+[<img src="https://github-readme-stats.vercel.app/api?username=rayngan999&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/anuraghazra/github-readme-stats)
