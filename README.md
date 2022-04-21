@@ -14,8 +14,8 @@
 <i class="programming lang-javascript"></i>
 
 <a href="https://github.com/ShangdeHan/github-readme-stats">   
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rayngan999&show_icons=true&include_all_commits=true&hide=contribs,prs&theme=solarized-light" alt="Ray's github stats"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rayngan999&show_icons=true&include_all_commits=true&hide=contribs,prs&theme=tokyonight" alt="Ray's github stats"/>
 </a>
 <a href="https://github.com/ShangdeHan/github-readme-stats">   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayngan999&layout=compact&theme=solarized-light"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayngan999&layout=compact&theme=tokyonight"/>
 </a>
